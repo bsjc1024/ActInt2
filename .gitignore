@@ -1,0 +1,4 @@
+crear_csv.py
+.venv
+__pycache__/
+DS_Store
